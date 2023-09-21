@@ -1,0 +1,258 @@
+{
+    "guilherme@gmail.com": {
+        "nome": "Guilherme",
+        "idade": "30",
+        "telefone": "3333-2221",
+        "peso": 75.5,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "S\u00e3o Paulo"
+    },
+    "gabriel@gmail.com": {
+        "nome": "Gabriel",
+        "idade": "20",
+        "telefone": "9999-6666",
+        "peso": 68.2,
+        "estado": "Rio de Janeiro",
+        "cidade": "Rio de Janeiro"
+    },
+    "roberto@gmail.com": {
+        "nome": "Roberto",
+        "idade": "25",
+        "telefone": "4444-2222",
+        "peso": 80.0,
+        "estado": "Minas Gerais",
+        "cidade": "Belo Horizonte"
+    },
+    "joelma@gmail.com": {
+        "nome": "Joelma",
+        "idade": "18",
+        "telefone": "19993-2234",
+        "peso": 60.5,
+        "estado": "Bahia",
+        "cidade": "Salvador"
+    },
+    "ana@gmail.com": {
+        "nome": "Ana",
+        "idade": "28",
+        "telefone": "5555-1234",
+        "peso": 55.0,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "S\u00e3o Paulo"
+    },
+    "maria@gmail.com": {
+        "nome": "Maria",
+        "idade": "35",
+        "telefone": "1234-5678",
+        "peso": 62.3,
+        "estado": "Rio de Janeiro",
+        "cidade": "Rio de Janeiro"
+    },
+    "pedro@gmail.com": {
+        "nome": "Pedro",
+        "idade": "22",
+        "telefone": "7890-1234",
+        "peso": 70.1,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "Campinas"
+    },
+    "lucas@gmail.com": {
+        "nome": "Lucas",
+        "idade": "29",
+        "telefone": "1111-2222",
+        "peso": 72.7,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "S\u00e3o Paulo"
+    },
+    "rafael@gmail.com": {
+        "nome": "Rafael",
+        "idade": "27",
+        "telefone": "3333-4444",
+        "peso": 78.4,
+        "estado": "Rio de Janeiro",
+        "cidade": "Niter\u00f3i"
+    },
+    "claudia@gmail.com": {
+        "nome": "Cl\u00e1udia",
+        "idade": "32",
+        "telefone": "5555-4321",
+        "peso": 65.8,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "S\u00e3o Paulo"
+    },
+    "carlos@gmail.com": {
+        "nome": "Carlos",
+        "idade": "23",
+        "telefone": "6666-7777",
+        "peso": 70.2,
+        "estado": "Minas Gerais",
+        "cidade": "Belo Horizonte"
+    },
+    "sandra@gmail.com": {
+        "nome": "Sandra",
+        "idade": "40",
+        "telefone": "9999-8888",
+        "peso": 63.4,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "S\u00e3o Paulo"
+    },
+    "marcos@gmail.com": {
+        "nome": "Marcos",
+        "idade": "26",
+        "telefone": "4444-5555",
+        "peso": 75.9,
+        "estado": "Rio de Janeiro",
+        "cidade": "Rio de Janeiro"
+    },
+    "bruna@gmail.com": {
+        "nome": "Bruna",
+        "idade": "24",
+        "telefone": "7777-8888",
+        "peso": 58.6,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "S\u00e3o Paulo"
+    },
+    "rodrigo@gmail.com": {
+        "nome": "Rodrigo",
+        "idade": "29",
+        "telefone": "8888-7777",
+        "peso": 70.5,
+        "estado": "Rio de Janeiro",
+        "cidade": "Niter\u00f3i"
+    },
+    "julia@gmail.com": {
+        "nome": "J\u00falia",
+        "idade": "21",
+        "telefone": "1234-5678",
+        "peso": 55.3,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "S\u00e3o Paulo"
+    },
+    "felipe@gmail.com": {
+        "nome": "Felipe",
+        "idade": "31",
+        "telefone": "2222-3333",
+        "peso": 79.8,
+        "estado": "Minas Gerais",
+        "cidade": "Belo Horizonte"
+    },
+    "patricia@gmail.com": {
+        "nome": "Patr\u00edcia",
+        "idade": "33",
+        "telefone": "4444-5555",
+        "peso": 67.7,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "S\u00e3o Paulo"
+    },
+    "eduardo@gmail.com": {
+        "nome": "Eduardo",
+        "idade": "28",
+        "telefone": "6666-7777",
+        "peso": 76.2,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "S\u00e3o Paulo"
+    },
+    "marcela@gmail.com": {
+        "nome": "Marcela",
+        "idade": "30",
+        "telefone": "1111-2222",
+        "peso": 63.0,
+        "estado": "Rio de Janeiro",
+        "cidade": "Rio de Janeiro"
+    },
+    "fernando@gmail.com": {
+        "nome": "Fernando",
+        "idade": "35",
+        "telefone": "1234-4321",
+        "peso": 80.5,
+        "estado": "Rio de Janeiro",
+        "cidade": "Niter\u00f3i"
+    },
+    "lucia@gmail.com": {
+        "nome": "L\u00facia",
+        "idade": "37",
+        "telefone": "5555-6543",
+        "peso": 68.9,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "S\u00e3o Paulo"
+    },
+    "andre@gmail.com": {
+        "nome": "Andr\u00e9",
+        "idade": "29",
+        "telefone": "7777-8888",
+        "peso": 73.1,
+        "estado": "Rio de Janeiro",
+        "cidade": "Rio de Janeiro"
+    },
+    "amanda@gmail.com": {
+        "nome": "Amanda",
+        "idade": "27",
+        "telefone": "9999-8888",
+        "peso": 61.7,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "S\u00e3o Paulo"
+    },
+    "carolina@gmail.com": {
+        "nome": "Carolina",
+        "idade": "26",
+        "telefone": "4444-5555",
+        "peso": 65.4,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "S\u00e3o Paulo"
+    },
+    "jose@gmail.com": {
+        "nome": "Jos\u00e9",
+        "idade": "30",
+        "telefone": "8888-7777",
+        "peso": 75.8,
+        "estado": "Minas Gerais",
+        "cidade": "Belo Horizonte"
+    },
+    "patricio@gmail.com": {
+        "nome": "Patricio",
+        "idade": "24",
+        "telefone": "1234-5678",
+        "peso": 64.2,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "S\u00e3o Paulo"
+    },
+    "lucas2@gmail.com": {
+        "nome": "Lucas",
+        "idade": "31",
+        "telefone": "2222-3333",
+        "peso": 77.6,
+        "estado": "Minas Gerais",
+        "cidade": "Belo Horizonte"
+    },
+    "vanessa@gmail.com": {
+        "nome": "Vanessa",
+        "idade": "29",
+        "telefone": "4444-5555",
+        "peso": 66.3,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "S\u00e3o Paulo"
+    },
+    "beatriz@gmail.com": {
+        "nome": "Beatriz",
+        "idade": "28",
+        "telefone": "6666-7777",
+        "peso": 62.7,
+        "estado": "S\u00e3o Paulo",
+        "cidade": "S\u00e3o Paulo"
+    },
+    "fabio@gmail.com": {
+        "nome": "F\u00e1bio",
+        "idade": "36",
+        "telefone": "5555-4321",
+        "peso": 84.0,
+        "estado": "Minas Gerais",
+        "cidade": "Belo Horizonte"
+    },
+    "gabriel.ventura20200@gmail.com": {
+        "nome": "Gabriel Ventura",
+        "idade": "20",
+        "telefone": "11996333686",
+        "peso": "93",
+        "estado": "SP",
+        "cidade": "S\u00e3o Paulo"
+    }
+}
